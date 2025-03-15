@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reza Bagus Saputra</h1>
 <h3 align="center">I'm a Web Developer From Brawijaya University</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezabaguss&label=Profile%20views&color=0e75b6&style=flat" alt="rezabaguss" /> </p>
 
